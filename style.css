@@ -1,0 +1,26 @@
+html, main {
+    background-color: darkslateblue;
+    color: yellow;
+
+}
+
+img {
+   width: 1000px;
+   height: 200px;
+}
+
+.img {
+    display: flex;
+    justify-items: center;
+    align-items: center;  
+}
+
+
+h1 {
+    text-align: center;
+    font-family: Arial;
+}
+
+h2 {
+    font-size: 20px;
+}
